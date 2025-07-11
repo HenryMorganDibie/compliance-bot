@@ -129,4 +129,4 @@ OPENAI_API_KEY=your-openai-api-key
 
 ### 👨‍💻 Author
 Henry C. Dibie
-Data & Automation Enthusiast | LinkedIn
+Data & Automation Enthusiast 
