@@ -1,0 +1,57 @@
+[
+  {
+    "filing_name": "FIRS VAT Monthly Filing",
+    "filing_type": "Tax",
+    "jurisdiction": "Nigeria",
+    "business_type": "Fintech",
+    "due_date": "2025-07-21",
+    "frequency": "monthly",
+    "description": "Monthly submission of Value Added Tax (VAT) returns to the Federal Inland Revenue Service (FIRS). Non-compliance attracts penalties.",
+    "escalation_contact": "taxteam@fintechco.com",
+    "completed": false
+  },
+  {
+    "filing_name": "CAC Annual Returns",
+    "filing_type": "Corporate Governance",
+    "jurisdiction": "Nigeria",
+    "business_type": "Fintech",
+    "due_date": "2025-07-31",
+    "frequency": "yearly",
+    "description": "Filing of annual return with the Corporate Affairs Commission (CAC) to maintain corporate status and compliance.",
+    "escalation_contact": "compliance@fintechco.com",
+    "completed": false
+  },
+  {
+    "filing_name": "SEC Quarterly Compliance Report",
+    "filing_type": "Regulatory",
+    "jurisdiction": "Nigeria",
+    "business_type": "Fintech",
+    "due_date": "2025-07-15",
+    "frequency": "quarterly",
+    "description": "Quarterly compliance reporting to the Securities and Exchange Commission (SEC) for licensed financial institutions.",
+    "escalation_contact": "compliance@fintechco.com",
+    "completed": false
+  },
+  {
+    "filing_name": "NSITF Monthly Pension Contribution",
+    "filing_type": "Payroll/Benefits",
+    "jurisdiction": "Nigeria",
+    "business_type": "Fintech",
+    "due_date": "2025-07-19",
+    "frequency": "monthly",
+    "description": "Monthly remittance of employee pension contributions to the Nigeria Social Insurance Trust Fund (NSITF).",
+    "escalation_contact": "hr@fintechco.com",
+    "completed": false
+  },
+  {
+    "filing_name": "ITF Annual Training Contribution",
+    "filing_type": "Corporate Responsibility",
+    "jurisdiction": "Nigeria",
+    "business_type": "Fintech",
+    "due_date": "2025-08-01",
+    "frequency": "yearly",
+    "description": "Annual payment to the Industrial Training Fund (ITF) for employee training obligations under Nigerian law.",
+    "escalation_contact": "training@fintechco.com",
+    "completed": false
+  }
+]
